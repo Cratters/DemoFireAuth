@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoFireAuth</string>
+    <string name="auth_failed">登入失敗</string>
+    <string name="auth_successful">登入成功</string>
+</resources>
